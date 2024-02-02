@@ -1,0 +1,1 @@
+# Fungible Tokens (FTs)
