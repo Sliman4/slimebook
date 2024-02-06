@@ -11,20 +11,20 @@ to another 1 dollar. They have the same properties as money:
 
 Examples of FTs:
 
-- **NEAR** is used to pay for [transaction fees](../lvl4/transactions.md),
+- **$NEAR** is used to pay for [transaction fees](../lvl4/transactions.md),
   [storage](../lvl4/storage.md), can be earned by [staking](../lvl2/staking.md) and
   by developing an app that people use (part of transaction fees goes to the app owner
   and the rest is [burned](../lvl3/burning.md))
-- **USDC** and **USDT** are [stablecoins](../lvl2/stablecoins.md), they always cost
+- **$USDC** and **$USDT** are [stablecoins](../lvl2/stablecoins.md), they always cost
   1 US dollar, and are used to transfer money between people and to pay for goods and
   services without worrying about the price volatility
-- **REF** is a token of the [Ref Finance](../lvl2/exchanging-tokens-ref.md) exchange,
+- **$REF** is a token of the [Ref Finance](../lvl2/exchanging-tokens-ref.md) exchange,
   it's used to reward [liquidity providers](../lvl4/providing-liquidity-ref.md) (people who give money to the exchange)
   in REF tokens, and give REF token holders a share of the exchange's fees
-- **LiNEAR** is a token that represents [staked](../lvl2/staking.md#liquid-staking) NEAR,
+- **$LiNEAR** is a token that represents [staked](../lvl2/staking.md#liquid-staking) NEAR,
   that preserves both the staking rewards and the ability to use your money for other
   purposes
-- **BLACKDRAGON** is a [memecoin](../lvl3/memecoins.md) that doesn't have a particular
+- **$BLACKDRAGON** is a [memecoin](../lvl3/memecoins.md) that doesn't have a particular
   use case as of yet, but some people like it and buy it for fun
 
 ## How to get tokens
