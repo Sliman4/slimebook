@@ -1,8 +1,8 @@
 # Summary
 
 - [✅ Intro](./intro.md)
-- [✅ Level 1](lvl1/main.md)
-  - [✅ Wallets](lvl1/main.md)
+- [✅ Level 1]()
+  - [✅ Wallets](lvl1/wallets/main.md)
     - [🟡 Meteor Wallet](lvl1/wallets/meteor-wallet.md)
     - [HERE Wallet](lvl1/wallets/here-wallet.md)
     - [MyNearWallet](lvl1/wallets/my-near-wallet.md)
