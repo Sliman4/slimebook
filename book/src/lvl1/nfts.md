@@ -2,24 +2,61 @@
 
 NFTs are tokens that can not be divided into smaller units, are unique and not
 interchangeable. They can represent ownership of digital assets like art, music,
-but can also be used as tickets to real-life events, access keys, and more.
+but can also be used as tickets to real-life events, access keys, and more. Here
+are some properties of it:
+
+- It's unique and only one person can own it at a time
+- It can be freely transferred to someone else
+- It's not divisible, you can't use half of it
+- Usually NFTs are part of a collection of similar NFTs, but each NFT is unique
+- Anyone can create an NFT, or download a JPEG and call it an NFT, but anyone can
+  see who created it and decide if it's worth anything
+
+They can have more applications than simply being an image, here are some examples:
+
+- Some projects issue NFTs that give access to beta versions of their games,
+  airdrops of their tokens
+- There are blockchain games that use NFTs as "items" that can be bought, sold,
+  and used in the game
+- Proof of ownership of a physical object, like a car or a house (as long as it's
+  legally recognized, of course, which is not common in most countries yet)
+- You can wrap your crypto account into an NFT and sell it, so the buyer will get
+  access to your account, [account ID](../lvl4/account-ids.md), and all the assets
+  in it
+- A musician can sell an NFT of a song, and the buyer will get royalties from
+  the song's sales
+- NFTs can be used as tickets to events, and the event organizers can control who
+  can enter by checking the NFTs
+
+One more example would be a ticket to a flight, let's analyze its properties:
+
+- It's unique, the same ticket doesn't exist twice
+- You can (depending on the airline's policy) give or sell it to someone else, or
+  buy it from someone else
+- It's not divisible, you can't use half of it to fly half the distance
+- It's not interchangeable, you can't use it to fly with a different airline
+- There are many similar tickets, but they are not completely the same. For example,
+  they can have different prices, conditions, seats, etc.
+- Anyone can "print a ticket" and sell it, but only the airline can issue a valid
+  ticket, and you can't use a fake ticket to fly
 
 # How to get NFTs
+
 You can buy them on a marketplace, or mint them for free. Here are the most popular
 NFT marketplaces on NEAR:
+
 - [Paras](../lvl2/trade-nfts-paras.md)
 - [Mintbase](../lvl4/mintbase.md)
 
 There is also an NFT aggregator [TradePort](../lvl4/tradeport.md)
 
 ## Free mints
+
 Sometimes creators give away their NFTs for free, either to anyone or with some
 conditions. You can find them on Twitter, Discord, and other social media. A good
 place to start would be the [Slime Community Discord](https://discord.gg/A5Uh4hhauh)
 server. As much as I'd like to have a list of all free mints here, I wouldn't be able
-to keep it up to date, but at the time of writing, the next free mint is
-[YearOfChef](https://www.yearofchef.org/mint), which only allows minting people who
-have donated at least 1 NEAR on [PotLock](../lvl3/potlock.md).
+to keep it up to date, so you should look for them yourself.
 
 One of the main platforms that provide free mints is [Shard dog](../lvl5/shard-dog.md),
 and there's an NFT that is always given away for free for a subscription to a newsletter --
@@ -34,10 +71,11 @@ usually between 0.01 and 0.05 near, keep that in mind. But your wallet will warn
 about this, anyway.
 
 ## NFT analysis
+
 Back in 2021, people were buying useless NFTs for a lot of money, they were just
-expensive pictures. Now that the market is more mature, NFTs need to have a clear
-use case. If you're looking to buy an NFT that will do something for you (give
-access to airdrops, increase in price, etc.), you should do a thorough research and
-not base your decision on the price and the picture alone. Of course, if you want to
-buy an NFT from your favorite digital artist just to support them, that's a
-different story.
+expensive pictures. Now that the market is more mature, popular NFTs usually have
+a clear use case. If you're looking to buy an NFT that will do something for you
+(give access to airdrops, increase in price, etc.), you should do a thorough
+research and not base your decision on the price and the picture alone. Of course,
+if you want to buy an NFT from your favorite digital artist just to support them,
+that's a different story.
