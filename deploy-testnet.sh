@@ -12,16 +12,6 @@ near contract deploy web4.$DEPLOY_ACCOUNT.testnet \
   sign-with-keychain \
   send
 
-# Delete old mdbook
-near contract call-function as-transaction web4.$DEPLOY_ACCOUNT.testnet \
-  clear json-args "{}" \
-  prepaid-gas '100.0 Tgas' \
-  attached-deposit '0 NEAR' \
-  sign-as $DEPLOY_ACCOUNT.testnet \
-  network-config testnet \
-  sign-with-keychain \
-  send
-
 # Deploy mdbook
 for FILE in $(fd . $ROOT_DIR/book/book/html -t f)
 do
