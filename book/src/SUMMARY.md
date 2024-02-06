@@ -17,7 +17,7 @@
   - [Trade NFTs](lvl2/trade-nfts-paras.md)
   - [NearWeek](lvl2/nearweek.md)
   - [Rainbow Bridge](lvl2/rainbow-bridge.md)
-  - [Account Model](lvl2/account-model.md)
+  - [✅ Account Model](lvl2/account-model.md)
   - [Access Keys](lvl2/keys.md)
   - [Staking](lvl2/staking.md)
   - [Stablecoins](lvl2/stablecoins.md)
