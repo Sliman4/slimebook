@@ -18,7 +18,7 @@ the ecosystem, it'll just waste your time and (most likely) not bring any
 benefits.
 
 While I aim to keep this book objective, I know you probably don't want to
-read 6 pages and compare it yourself, so here's what I recommend:
+read all these pages and compare it yourself, so here's what I recommend:
 - If you're on a computer, use [Meteor Wallet](meteor-wallet.md).
 - If you're on a phone, use [HERE Wallet](here-wallet.md).
 

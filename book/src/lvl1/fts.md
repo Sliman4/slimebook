@@ -11,7 +11,7 @@ to another 1 dollar. They have the same properties as money:
 
 Examples of FTs:
 
-- **$NEAR** is used to pay for [transaction fees](../lvl4/transactions.md),
+- **$NEAR** is used to pay for [transaction fees](../lvl4/transactions.md#gas-fees),
   [storage](../lvl4/storage.md), can be earned by [staking](../lvl2/staking.md) and
   by developing an app that people use (part of transaction fees goes to the app owner
   and the rest is [burned](../lvl3/burning.md))
