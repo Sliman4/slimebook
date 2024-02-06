@@ -56,4 +56,4 @@ a long string of characters as your address. NEAR mostly uses human-readable
 names instead, and you can have multiple accounts under the same name.
 Don't confuse this with ENS or similar services, NEAR names are not a
 good-looking mapping to an address - **it IS** your address. More information about
-addresses: [NEAR Accounts](../../lvl4/account-ids.md).
+addresses: [NEAR Accounts](../../lvl4/account-model/account-ids.md).

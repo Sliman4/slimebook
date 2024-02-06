@@ -25,7 +25,7 @@ They can have more applications than simply being an image, here are some exampl
 - Proof of ownership of a physical object, like a car or a house (as long as it's
   legally recognized, of course, which is not common in most countries yet)
 - You can wrap your crypto account into an NFT and sell it, so the buyer will get
-  access to your account, [account ID](../lvl4/account-ids.md), and all the assets
+  access to your account, [account ID](../lvl4/account-model/account-ids.md), and all the assets
   in it
 - A musician can sell an NFT of a song, and the buyer will get royalties from
   the song's sales
@@ -74,7 +74,7 @@ is also a good source of information about the NEAR ecosystem.
 Usually unlimited freemints like NearWeek NFT are not worth anything, but you might still
 want to mint them for fun or for memories of some events.
 
-When you mint an NFT, you may be charged a small [storage fee](../lvl4/storage.md),
+When you mint an NFT, you may be charged a small [storage fee](../lvl4/account-model/storage.mddel/storage.md),
 usually between 0.01 and 0.05 near, keep that in mind. But your wallet will warn you
 about this, anyway.
 

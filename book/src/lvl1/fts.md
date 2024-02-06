@@ -12,7 +12,7 @@ to another 1 dollar. They have the same properties as money:
 Examples of FTs:
 
 - **$NEAR** is used to pay for [transaction fees](../lvl4/transactions.md#gas-fees),
-  [storage](../lvl4/storage.md), can be earned by [staking](../lvl2/staking.md) and
+  [storage](../lvl4/account-model/storage.mddel/storage.md), can be earned by [staking](../lvl2/staking.md) and
   by developing an app that people use (part of transaction fees goes to the app owner
   and the rest is [burned](../lvl3/burning.md))
 - **$USDC** and **$USDT** are [stablecoins](../lvl2/stablecoins.md), they always cost
@@ -80,7 +80,7 @@ common ways projects reward people with tokens:
 
 ### Storage fee
 
-When it's your first time interacting with a token, you might need to pay a [fee](../lvl4/storage.md) to
+When it's your first time interacting with a token, you might need to pay a [fee](../lvl4/account-model/storage.mddel/storage.md) to
 receive it. This is because the token balances are stored in a smart contract, and
 the smart contract needs to store the information about your balance. This fee is
 usually small, 0.01-0.10 NEAR for most coins.

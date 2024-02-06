@@ -3,7 +3,7 @@ In NEAR, account names (account IDs) are human-readable names that are unique
 across the entire network. They are used to identify accounts and can be used
 to receive tokens, deploy contracts, and more. Because of that, you can see
 in your wallet that are trying to send tokens to `slimedragon.near`, or
-interact with [v2.ref-finance.near](../lvl2/exchanging-tokens-ref.md), which are
+interact with [v2.ref-finance.near](../../lvl2/exchanging-tokens-ref.md), which are
 legitimate addresses, the same way as you can do a search and see that you're
 searching on `google.com`, not a fake copy.
 
@@ -25,8 +25,8 @@ can't have two or more consecutive hyphens.
 ## Top-level names
 
 Most commonly you'll encounter wallets ending with `.near`, but there are other
-top-level names, like `.tg` (can be created in [Telegram NEAR Wallet](../lvl1/wallets/telegram-near-wallet.md)),
-`.sweat` (cannot be created by users, used by [Sweat Economy](../projects/sweat-economy.md)'s
+top-level names, like `.tg` (can be created in [Telegram NEAR Wallet](../../lvl1/wallets/telegram-near-wallet.md)),
+`.sweat` (cannot be created by users, used by [Sweat Economy](../../projects/sweat-economy.md)'s
 smart contracts, `.kaiching`, `.vrtx`, `.aurora`, and so on, but most of them are used
 internally and cannot be created by users.
 
