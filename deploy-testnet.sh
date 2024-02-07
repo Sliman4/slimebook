@@ -6,17 +6,16 @@ PROJECT_NAME="slimebook"
 
 # Deploy web4 contract
 near contract deploy web4.$DEPLOY_ACCOUNT.testnet \
-  use-file $ROOT_DIR/web4/target/wasm32-unknown-unknown/release/$PROJECT_NAME.wasm \
+  use-file "$ROOT_DIR/web4/target/wasm32-unknown-unknown/release/$PROJECT_NAME.wasm" \
   without-init-call \
   network-config testnet \
   sign-with-keychain \
   send
 
 # Deploy mdbook
-for FILE in $(fd . $ROOT_DIR/book/book/html -t f)
+for FILE in $(fd . "$ROOT_DIR/book/book/html/$1" -t f)
 do
   FILE=${FILE#$ROOT_DIR/book/book/html/}
-  FILE_CONTENTS=$(cat $ROOT_DIR/book/book/html/$FILE)
   echo "Uploading $FILE..."
   BYTES=$(od -An -vtu1 "$ROOT_DIR/book/book/html/$FILE" | awk '{for(i=1;i<=NF;i++) printf "%s,",$i}' | sed 's/,$/\n/' | sed 's/^/[/' | sed 's/$/]/')
   echo "{\"name\":\"/$FILE\",\"data\":$BYTES}" > args.json
@@ -33,7 +32,7 @@ do
     echo "Uploaded $FILE successfully"
   else
     echo "Error uploading $FILE:"
-    echo $OUTPUT
+    echo "$OUTPUT"
     exit 1
   fi
 done
