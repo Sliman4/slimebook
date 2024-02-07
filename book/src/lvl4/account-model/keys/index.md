@@ -31,7 +31,7 @@ dapps to interact with their contracts using your account, without your confirma
 the wallet. But it can't send NEAR in these transactions, so it's safe to create these
 keys. They can request allowance some amount of NEAR to pay [gas fees](../../transactions.md#gas-fees).
 
-But what about my [FTs](../../../lvl1/fts.md) and [NFTs](../../../lvl1/nfts.md)? Can
+> But what about my [FTs](../../../lvl1/fts.md) and [NFTs](../../../lvl1/nfts.md)? Can
 these keys send them?
 
 You have to check what contract and what method the key can call before creating it.
@@ -54,7 +54,8 @@ shouldn't need this much, it's probably safe to create this key.
 > In theory, a malicious dapp can send a lot of transactions and use up its allowance
 > of 0.25 NEAR, and grab [30% of the fees](../../transactions.md#developer-incentive)
 > for itself, making 0.075 NEAR of each user, but it's not worth the effort, and users
-> can't lose more than 0.25 NEAR, so don't worry about this.
+> can't lose more than 0.25 NEAR, so don't worry about this. But it's also possible to
+> request unlimited allowance, so be careful with connecting to dapps.
 
 But if it was something like `usdt.tether-token.near`, we would have to be careful,
 because it can call the `transfer` method, and transfer all our USDT to someone else.
