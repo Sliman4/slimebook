@@ -1,6 +1,6 @@
 # Summary
 
-- [✅ Intro](./intro.md)
+[✅ Intro](./intro.md)
 - [✅ Level 1]()
   - [✅ Wallets](lvl1/wallets/main.md)
     - [🟡 Meteor Wallet](lvl1/wallets/meteor-wallet.md)
@@ -48,6 +48,7 @@
   - [Near CLI](lvl6/near-cli.md)
 - [Level 7]()
   - [Chain Abstraction](lvl7/chain-abstraction.md)
-- [Projects](projects/main.md)
+---
+- [Other Projects](projects/main.md)
   - [KAIKAI](projects/kaikai.md)
   - [Sweat Economy](projects/sweat-economy.md)
