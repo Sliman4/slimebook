@@ -27,7 +27,7 @@ can't have two or more consecutive hyphens.
 Most commonly you'll encounter wallets ending with `.near`, but there are other
 top-level names, like `.tg` (can be created in [Telegram NEAR Wallet](../../lvl1/wallets/telegram-near-wallet.md)),
 `.sweat` (cannot be created by users, used by [Sweat Economy](../../projects/sweat-economy.md)'s
-[smart contracts](../../lvl3/smart-contracts.md), `.kaiching`, `.vrtx`, `.aurora`, and
+[smart contracts](../../lvl3/smart-contracts.md)), `.kaiching`, `.vrtx`, `.aurora`, and
 so on, but most of them are used internally and cannot be created by users.
 
 Top-level (without `.something`) account IDs with lengths >= 32 characters can be
