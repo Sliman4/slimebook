@@ -12,4 +12,4 @@ Some of the pages (about half) are already created and waiting for me to write t
 I think I'll focus on writing all pages as fast as possible so that it can already be
 useful, and after that I'll start refining them.
 
-Let's [get started](lvl1/wallets/main.md)! 🚀
+Let's [get started](lvl1/wallets/index.md)! 🚀

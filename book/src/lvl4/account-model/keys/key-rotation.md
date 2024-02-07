@@ -1,7 +1,7 @@
 # Transfer accounts (change account keys)
 
 > WARNING: This is a dangerous operation. If you so something wrong, you won't be able to
-> recover access to your account. Make sure you have a clear understanding of how [keys](main.md)
+> recover access to your account. Make sure you have a clear understanding of how [keys](index.md)
 > work before doing this, and avoid doing this unless absolutely necessary.
 
 The process is actually simpler than it sounds. You just need to create a new full access

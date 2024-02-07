@@ -4,13 +4,13 @@ Of course, the first thing you need to do is to create a NEAR account using a wa
 
 There is no official NEAR Wallet[^1], but there are a lot of wallets
 created by other teams. The most popular ones are:
-- [Meteor Wallet](meteor-wallet.md) -- web + chrome extension
-- [HERE Wallet](here-wallet.md) -- mobile
-- [MyNearWallet](my-near-wallet.md) -- web
-- [NEAR Mobile Wallet](near-mobile-wallet.md) -- mobile
-- [Sender Wallet](sender-wallet.md) -- mobile + chrome extension
-- [Nightly Wallet](nightly-wallet.md) -- chrome extension + firefox extension
-- [Telegram NEAR Wallet](telegram-near-wallet.md) -- telegram app
+- [Meteor Wallet](meteor-wallet.md) - web + chrome extension
+- [HERE Wallet](here-wallet.md) - mobile
+- [MyNearWallet](my-near-wallet.md) - web
+- [NEAR Mobile Wallet](near-mobile-wallet.md) - mobile
+- [Sender Wallet](sender-wallet.md) - mobile + chrome extension
+- [Nightly Wallet](nightly-wallet.md) - chrome extension + firefox extension
+- [Telegram NEAR Wallet](telegram-near-wallet.md) - telegram app
 
 There is [a full list of all wallets and their features](https://docs.google.com/spreadsheets/d/1Q9ZEeWpFHgcPthSCvzyiVcaKdBIcdS3r96v48OYsDBM/edit),
 but I don't recommend using lesser-known wallets, especially if you're new to

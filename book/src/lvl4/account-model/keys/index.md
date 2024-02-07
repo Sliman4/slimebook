@@ -20,7 +20,7 @@ There are 2 types of keys:
 This key can do anything on the account. It can transfer tokens, change the account's
 keys, and even delete the account. It's like the master key of the account. This key
 is usually created when the account is created, and it can create other keys. This is
-the key that is stored in your [wallet](../../../lvl1/wallets/main.md). You can also
+the key that is stored in your [wallet](../../../lvl1/wallets/index.md). You can also
 create multiple full access keys in the same account, if you want.
 
 ### Function call access key
