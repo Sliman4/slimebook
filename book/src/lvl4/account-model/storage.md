@@ -1,4 +1,4 @@
-# Storage
+# Storage fee
 
 There's no such thing as free storage. When you store something on the NEAR
 blockchain, you pay for it. The price is low (1 NEAR for 100kb), but when

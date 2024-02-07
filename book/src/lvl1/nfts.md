@@ -74,7 +74,7 @@ is also a good source of information about the NEAR ecosystem.
 Usually unlimited freemints like NearWeek NFT are not worth anything, but you might still
 want to mint them for fun or for memories of some events.
 
-When you mint an NFT, you may be charged a small [storage fee](../lvl4/account-model/storage.mddel/storage.md),
+When you mint an NFT, you may be charged a small [storage fee](../lvl4/account-model/storage.md),
 usually between 0.01 and 0.05 near, keep that in mind. But your wallet will warn you
 about this, anyway.
 

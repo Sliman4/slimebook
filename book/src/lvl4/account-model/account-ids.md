@@ -9,10 +9,10 @@ searching on `google.com`, not a fake copy.
 
 ## Valid account names
 There are 2 types of account names: implicit and named. Implicit account
-names are the ones that consist of 64 seemingly random characters. If you don't
-want to be ashamed of your address when someone asks you for an address, you
-shouldn't use it. Named accounts are the ones that are human-readable and
-can be used to receive tokens, deploy contracts, and more. Examples:
+names are the ones that consist of 64 seemingly random characters. Example: [998765b2120bf0ca10a9242343fdbda6612a48b279d69c9e4d99dbf5adda7d93](https://nearblocks.io/address/998765b2120bf0ca10a9242343fdbda6612a48b279d69c9e4d99dbf5adda7d93).
+If you don't want to be ashamed of your address when someone asks you for it, you
+shouldn't use it. Instead, use named accounts. Named accounts are human-readable.
+Examples:
 - `slimedragon.near`
 - `root.near`
 - `sub.slimedragon.near`
@@ -27,8 +27,8 @@ can't have two or more consecutive hyphens.
 Most commonly you'll encounter wallets ending with `.near`, but there are other
 top-level names, like `.tg` (can be created in [Telegram NEAR Wallet](../../lvl1/wallets/telegram-near-wallet.md)),
 `.sweat` (cannot be created by users, used by [Sweat Economy](../../projects/sweat-economy.md)'s
-smart contracts, `.kaiching`, `.vrtx`, `.aurora`, and so on, but most of them are used
-internally and cannot be created by users.
+[smart contracts](../../lvl3/smart-contracts.md), `.kaiching`, `.vrtx`, `.aurora`, and
+so on, but most of them are used internally and cannot be created by users.
 
 Top-level (without `.something`) account IDs with lengths >= 32 characters can be
 created by anyone, though they're used very often. For example, [this-account-is-owned-by-a-green-slime](https://nearblocks.io/address/this-account-is-owned-by-a-green-slime)
@@ -44,4 +44,4 @@ a fully independent account.
 
 Technically, `near` is also a top-level account, all `.near` accounts are its subaccounts,
 but `near` doesn't have access to your `.near` account, and can't create `slimething.slimedragon.near`,
-if that makes it easier to understand. If you want more information, visit [docs.near.org](https://docs.near.org/concepts/basics/accounts/account-id)
+if that makes it easier to understand. For more information, visit [docs.near.org](https://docs.near.org/concepts/basics/accounts/account-id)
