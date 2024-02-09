@@ -1,0 +1,51 @@
+[book]
+authors = ["slimedragon.near"]
+language = "en"
+multilingual = false
+src = "book"
+title = "SlimeBook"
+text-direction = "ltr"
+
+[build]
+build-dir = "out"
+create-missing = false
+use-default-preprocessors = true
+extra-watch-dirs = []
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+curly-quotes = true
+mathjax-support = false
+additional-css = []
+additional-js = []
+no-section-label = true
+git-repository-url = "https://github.com/Sliman4/slimebook"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/Sliman4/slimebook/edit/main/book/{path}"
+site-url = "/"
+
+[output.html.print]
+enable = true
+page-break = true
+
+[output.html.fold]
+enable = true
+level = 2
+
+[output.html.search]
+enable = true
+limit-results = 100
+teaser-word-count = 50
+use-boolean-and = true
+boost-title = 3
+boost-hierarchy = 1
+boost-paragraph = 2
+expand = true
+heading-split-level = 3
+copy-js = true
+
+[output.linkcheck]
+follow-web-links = true
+exclude = [ "wallet.meteorwallet.app" ] # Throws "connection reset by peer"
+traverse-parent-directories = false

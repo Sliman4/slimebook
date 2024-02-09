@@ -58,7 +58,7 @@ common ways projects reward people with tokens:
   Usually, liquidity mining is temporary, since projects have a specific budget for
   the incentives, but new programs can be announced at any time
 - **Airdrops** - some projects give away tokens for free to people who have a certain
-  token, [NFT](./nfts.md), to people who used their product in the past, or to
+  token, [NFT](nfts.md), to people who used their product in the past, or to
   people who are active in the NEAR ecosystem. Follow the project's social media
   and announcements to find out about future airdrops. Sometimes they are announced
   in advance, sometimes they are given to people who are already using the project,

@@ -37,12 +37,12 @@ these keys send them?
 You have to check what contract and what method the key can call before creating it.
 Here's what it looks like in [MyNearWallet](../../../lvl1/wallets/my-near-wallet.md):
 
-![MyNearWallet](./mnw-create-function-call-key.png)
+![MyNearWallet](mnw-create-function-call-key.png)
 
 In [Meteor Wallet](../../../lvl1/wallets/meteor-wallet.md) it doesn't say that this
 key can call methods, but it actually can, it's just not displayed:
 
-![Meteor Wallet](./meteor-create-function-call-key.png)
+![Meteor Wallet](meteor-create-function-call-key.png)
 
 This dapp wants us to create a key that can call all methods of `social.near` smart
 contract, and use up to 0.25 NEAR for [gas fees](../../transactions.md#gas-fees).
@@ -80,9 +80,9 @@ called "revoking" the key. You can do it in your wallet. I'll show you how to do
 in [Meteor Wallet](../../../lvl1/wallets/meteor-wallet.md):
 
 1. In the settings, click "Connected Apps"
-   ![Connected Apps](./revoking-keys-1.png)
+   ![Connected Apps](revoking-keys-1.png)
 2. Find the key you want to revoke, and click "Deauthorize"
-   ![Revoke](./revoking-keys-2.png)
+   ![Revoke](revoking-keys-2.png)
 
 ## How keys work
 
@@ -126,7 +126,7 @@ book, but just know that it's the name of the key algorithm.
 
 All public keys are stored on the blockchain, and can be viewed by anyone:
 
-![Public keys](./public-keys.png)
+![Public keys](public-keys.png)
 
 ## What can you do with this key system?
 
