@@ -99,9 +99,6 @@ or distributed to the token holders. You should always check the token's website
 or the exchange's website to find out about the fees, because they are different
 for each token and exchange.
 
-As far as I know, there are no popular tokens with a transfer fee on NEAR, but it's
-better to be aware of this possibility.
-
 ## Creating your own token
 
 If you want to create your own token, there are 2 main ways to do it:

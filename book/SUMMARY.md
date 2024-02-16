@@ -13,8 +13,8 @@
   - [✅ Fungible Tokens](lvl1/fts.md)
   - [✅ NFTs](lvl1/nfts.md)
 - [Level 2]()
-  - [Exchanging Tokens](lvl2/exchanging-tokens-ref.md)
-  - [Trade NFTs](lvl2/trade-nfts-paras.md)
+  - [✅ Exchanging Tokens (Ref)](lvl2/exchanging-tokens-ref.md)
+  - [Trade NFTs (Paras)](lvl2/trade-nfts-paras.md)
   - [NearWeek](lvl2/nearweek.md)
   - [Rainbow Bridge](lvl2/rainbow-bridge.md)
   - [Staking](lvl2/staking.md)
@@ -27,6 +27,7 @@
   - [Memecoins](lvl3/memecoins.md)
   - [Common scams](lvl3/scams.md)
   - [Burning tokens](lvl3/burning.md)
+  - [DAOs](lvl3/dao.md)
 - [Level 4]()
   - [✅ Account Model](lvl4/account-model/index.md)
     - [✅ Storage](lvl4/account-model/storage.md)
@@ -41,13 +42,10 @@
 - [Level 5]()
   - [Aurora](lvl5/aurora.md)
   - [Shard Dog](lvl5/shard-dog.md)
-  - [NFT Staking](lvl5/nft-staking.md)
+  - [NFT Staking](lvl4/nft-staking.md)
 - [Level 6]()
-  - [Indexers](lvl6/indexers.md)
   - [Node Types](lvl6/node-types.md)
   - [Near CLI](lvl6/near-cli.md)
-- [Level 7]()
-  - [Chain Abstraction](lvl7/chain-abstraction.md)
 
 ---
 

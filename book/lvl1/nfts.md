@@ -104,7 +104,7 @@ Some good indicators:
 Some flags that indicate that the NFT needs more research:
 
 - There are 10000 NFTs, but only 30 of them are listed on marketplaces. They could
-  all be owned by the creator (red flag), or in [NFT staking](../lvl5/nft-staking.md)
+  all be owned by the creator (red flag), or in [NFT staking](../lvl4/nft-staking.md)
   contracts (green flag), or [burned](../lvl3/burning.md) (green flag), or no one
   cares about them and people gave up trying to sell them (red flag), or something else
 - The NFT creator claims that the NFT will give you some benefits, but there's
