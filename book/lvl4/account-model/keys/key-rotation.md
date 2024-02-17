@@ -1,11 +1,38 @@
 # Transfer accounts (change account keys)
 
-> WARNING: This is a dangerous operation. If you so something wrong, you won't be able to
+On most blockchains, if you leak your [seed phrase](where-to-save-seed-phrase.md), you
+give full access to your account to anyone who knows it. You have to transfer your funds
+to a new account, and you can't use the old account anymore, as the hacker can set up
+a bot that will transfer all the funds from your account as soon as you receive them.
+But on NEAR, you can just change your keys, and the old key will be useless. This is
+called "key rotation". Note that a hacker can also change your keys, so if you think
+that your account may be compromised, you should act quickly.
+
+## Why use it?
+
+There are a few reasons why you might want to change your account keys:
+
+- You lost your seed phrase, but you still have access to the wallet, and you want to
+  create a new seed phrase to restore your account in case you lose access to the wallet.
+- You think that your old key might be compromised, and you want to create a new one.
+  If you've leaked your seed phrase, or if you've used it on a compromised device, you
+  should definitely change your keys. This is the same as changing your password on
+  other websites.
+- You have a [soulbound NFT](../../../lvl1/nfts.md#soulbound-nfts) or a non-transferable
+  token, and you want to transfer the account to another person. You can't just give them
+  the seed phrase, and the other person changes the keys so that you can no longer access
+  the account.
+
+## How to do it?
+
+> WARNING: This is a dangerous operation. If you do something wrong, you won't be able to
 > recover access to your account. Make sure you have a clear understanding of how [keys](index.md)
 > work before doing this, and avoid doing this unless absolutely necessary.
 
 The process is actually simpler than it sounds. You just need to create a new full access
 key, and then delete the old one. Here's how you can do it in [Meteor Wallet](../../../lvl1/wallets/meteor-wallet.md):
+
+### Meteor Wallet
 
 1. Open the wallet:
    ![Open the wallet](transfer-account-1.png)
@@ -39,12 +66,12 @@ or in the wallet.
 This method works in all wallets that offer full key management, but the interface might
 look different.
 
-## Why use it?
+## MyNearWallet
 
-There are a few reasons why you might want to change your account keys:
+In MyNearWallet there is even a button to do it in one click: "Rotate Key", but you
+need to manually specify a new seed phrase, it can't auto-generate a random one for you.
+Don't copy/paste the seed phrase from a "seed phrase generator" website, as it can save
+the phrase and steal your funds later. I recommend using another wallet, or creating a new
+account and using the phrase from it.
 
-- You lost your seed phrase, but you still have access to the wallet, and you want to
-  transfer your account to a new one.
-- You think that your old key might be compromised, and you want to create a new one.
-  If you've leaked your seed phrase, or if you've used it on a compromised device, you
-  should definitely change your keys.
+![MyNearWallet](key-rotation-mnw.png)

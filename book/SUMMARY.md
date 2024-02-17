@@ -12,6 +12,7 @@
     - [Telegram NEAR Wallet](lvl1/wallets/telegram-near-wallet.md)
   - [✅ Fungible Tokens](lvl1/fts.md)
   - [✅ NFTs](lvl1/nfts.md)
+  - [✅ Receiving NEAR](lvl1/receiving-near.md)
 - [Level 2]()
   - [✅ Exchanging Tokens (Ref)](lvl2/exchanging-tokens-ref.md)
   - [Trade NFTs (Paras)](lvl2/trade-nfts-paras.md)
@@ -28,6 +29,7 @@
   - [Common scams](lvl3/scams.md)
   - [Burning tokens](lvl3/burning.md)
   - [DAOs](lvl3/dao.md)
+  - [Burrow](lvl3/burrow.md)
 - [Level 4]()
   - [✅ Account Model](lvl4/account-model/index.md)
     - [✅ Storage](lvl4/account-model/storage.md)
@@ -47,8 +49,10 @@
   - [Node Types](lvl6/node-types.md)
   - [Near CLI](lvl6/near-cli.md)
 
----
-
 - [Other Projects](projects/index.md)
   - [KAIKAI](projects/kaikai.md)
   - [Sweat Economy](projects/sweat-economy.md)
+
+---
+
+- [✅ Contributing](contributing.md)

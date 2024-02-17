@@ -126,6 +126,17 @@ Some flags that indicate that the NFT needs more research:
   the difference between a good meme and a bad meme, but that's not something I can
   teach you in the book because I have no idea how people do it, lol
 
+## Soulbound NFTs
+
+Soulbound NFTs are NFTs that can't be transferred to another account. They can be
+used as proof of ownership of a physical object, like a car or a house, where the
+transfer process is more complicated than just sending an NFT to another account due
+to legal reasons. The NFT creator can make it soulbound if they don't want you to
+sell it, or if they want to make sure that only you (or other specific people) can
+own it. But it's not a guarantee that you can't sell it, because you can [sell the
+whole account](../lvl4/account-model/keys/key-rotation.md) that owns the NFT, and
+the NFT will be transferred with the account.
+
 ## Creating your own NFT
 
 If you want to create your own NFT, there are 2 main ways to do it:

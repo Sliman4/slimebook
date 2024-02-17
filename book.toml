@@ -22,7 +22,7 @@ additional-js = []
 no-section-label = true
 git-repository-url = "https://github.com/Sliman4/slimebook"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/Sliman4/slimebook/edit/main/{path}"
+edit-url-template = "https://github.com/Sliman4/slimebook/blob/main/{path}?plain=1"
 site-url = "/"
 
 [output.html.print]

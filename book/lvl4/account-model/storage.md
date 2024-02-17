@@ -54,4 +54,4 @@ on the [explorer](../../lvl3/nearblocks.md), doesn't require storage, since it's
 on the blockchain, and dismissed[^1] right after the transaction ends.
 
 [^1]: The full transaction history, including the transaction data, is stored in the
-      [archival nodes](../../lvl6/node-types.md) and [indexers](../../lvl6/indexers.md).
+      [archival nodes](../../lvl6/node-types.md) and indexers.
