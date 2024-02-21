@@ -141,6 +141,8 @@ You can see your active orders in the right bottom corner. You can cancel them a
 time, or claim the tokens you wanted to buy if the order was executed. It will be
 executed automatically when the price reaches the price you specified.
 
+> You can learn more about Ref in [the official documentation](https://guide.ref.finance/)
+
 ## Orderly spot/perpetual trading
 
 Orderly is a protocol that allows you to trade spot and perpetual tokens with more

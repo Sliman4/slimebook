@@ -128,7 +128,7 @@ Some flags that indicate that the NFT needs more research:
 
 ## Soulbound NFTs
 
-Soulbound NFTs are NFTs that can't be transferred to another account. They can be
+Soulbound NFTs (also called SBT, Soul-Bound Tokens) are NFTs that can't be transferred to another account. They can be
 used as proof of ownership of a physical object, like a car or a house, where the
 transfer process is more complicated than just sending an NFT to another account due
 to legal reasons. The NFT creator can make it soulbound if they don't want you to

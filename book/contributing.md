@@ -2,16 +2,17 @@
 
 If you want to improve the book, first of all, thank you! 🎉
 
-To do this, you need a telegram account and to join our [telegram chat](https://t.me/slimepowerchat).
+To do this, you need a discord account and to join our [discord](https://discord.gg/VZn9WU9Kpy).
 There, you can ask questions, suggest changes, and discuss the book with other readers and
-contributors.
+contributors. If you don't have a discord account, you can also join our [telegram chat](https://t.me/slimepowerchat)
+and contribute there.
 
 You can contribute in many ways:
 
 - Reporting a mistake. A typo, broken link, outdated information, or even too complex / boring
   explanation - anything that makes the book less useful and can be improved.
 - Writing a new page. If you think that something is missing, you can write a new page and send
-  it in the telegram chat.
+  it in discord.
 - Editing an existing page. If you think that something can be improved, or is outdated,
   you can edit the page and send it as well.
 - Adding new information. If you think that some page is missing important information,
@@ -41,7 +42,7 @@ images, and other formatting.
    example, [EditMyMarkdown](https://editmymarkdown.com)
    is a good online editor with preview of formatting
 4. Edit the page until you're happy with it
-5. Send the edited page in the [telegram chat](https://t.me/slimepowerchat)
+5. Send the edited page in the [discord](https://discord.gg/VZn9WU9Kpy)
 
 If you want to create a new page, you can start with a template:
 
@@ -72,9 +73,9 @@ depends on:
   while the treasury is almost empty, you can still be fairly compensated in the future, but
   it's not guaranteed.
 
-Currently, tipbot is used to reward contributors. It's a bot that can send NEAR tokens to
-anyone in the telegram chat.
+Currently, tipbot is used to reward contributors in telegram, and direct paymentes of near
+are used on discord.
 
 ## Have questions?
 
-Join our [telegram chat](https://t.me/slimepowerchat) and ask anything you want.
+Join our [discord](https://discord.gg/VZn9WU9Kpy) and ask anything you want.
