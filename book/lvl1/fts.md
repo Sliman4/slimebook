@@ -27,6 +27,9 @@ Examples of FTs:
 - **$BLACKDRAGON** is a [memecoin](../lvl3/memecoins.md) that doesn't have a particular
   use case as of yet, but some people like it and buy it for fun
 
+If you see something like "NEP-141 token" on some website, don't worry about a scary name,
+NEP-141 is a technical standard for FTs on NEAR, all FTs on NEAR are `NEP-141`[^1] tokens.
+
 ## How to get tokens
 
 - **Buy** them on an [online exchange](../lvl2/exchanging-tokens-ref.md) or from someone
@@ -102,12 +105,20 @@ for each token and exchange.
 ## Creating your own token
 
 If you want to create your own token, there are 2 main ways to do it:
+
 1. Use a platform that allows you to create tokens without coding
 2. Write a smart contract of your token
 
-The first way is easier, but the second way gives you more control over the token. 
+The first way is easier, but the second way gives you more control over the token.
 In this book, we will cover the first way, because it's easier and more accessible.
-The most popular platform is Token Farm, but it's not usable anymore.
+There are 2 popular platforms:
 
-Someday, someone will create a simple website for deploying tokens and I'll add it
-to this book.
+- [Token farm](https://tkn.farm/) (creates tokens with format `<token-name>.tkn.near`) -
+  once it was the most popular way to create tokens, but now it's not actively maintained
+  and can't be used, as connecting a wallet simply doesn't work. Maybe it'll be fixed soon.
+- [Jump DeFi Token Laboratory](https://app.jumpdefi.xyz/token-launcher) - a platform
+  by [Jump DeFi](../lvl4/jumpdefi.md) that allows you to create tokens with format
+  `<token-name>.laboratory.jumpfinance.near`. There's an instruction on the [Jump DeFi](
+  ../lvl4/jumpdefi.md#token-laboratory) page.
+
+[^1]: More info about fungible tokens: in [nomicon](https://nomicon.io/Standards/Tokens/FungibleToken/)

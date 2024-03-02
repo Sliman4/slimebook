@@ -22,7 +22,7 @@ additional-js = []
 no-section-label = true
 git-repository-url = "https://github.com/Sliman4/slimebook"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/Sliman4/slimebook/blob/main/{path}?plain=1"
+edit-url-template = "https://raw.githubusercontent.com/Sliman4/slimebook/main/{path}"
 site-url = "/"
 
 [output.html.print]
@@ -46,6 +46,4 @@ heading-split-level = 3
 copy-js = true
 
 [output.linkcheck]
-follow-web-links = true
-exclude = [ "wallet.meteorwallet.app" ] # Throws "connection reset by peer"
-traverse-parent-directories = false
+follow-web-links = false

@@ -6,11 +6,12 @@ There is no official NEAR Wallet[^1], but there are a lot of wallets
 created by other teams. The most popular ones are:
 - [Meteor Wallet](meteor-wallet.md) - web + chrome extension
 - [HERE Wallet](here-wallet.md) - mobile
+- [Mintbase Wallet](mintbase-wallet.md) - web
 - [MyNearWallet](my-near-wallet.md) - web
-- [NEAR Mobile Wallet](near-mobile-wallet.md) - mobile
-- [Sender Wallet](sender-wallet.md) - mobile + chrome extension
-- [Nightly Wallet](nightly-wallet.md) - chrome extension + firefox extension
-- [Telegram NEAR Wallet](telegram-near-wallet.md) - telegram app
+- [NEAR Mobile Wallet](https://nearmobile.app/) - mobile
+- [Sender Wallet](https://senderwallet.io/) - mobile + chrome extension
+- [Nightly Wallet](https://nightly.app/) - chrome extension + firefox extension
+- [Telegram NEAR Wallet](https://t.me/herewalletbot/app) - telegram app
 
 There is [a full list of all wallets and their features](https://docs.google.com/spreadsheets/d/1Q9ZEeWpFHgcPthSCvzyiVcaKdBIcdS3r96v48OYsDBM/edit),
 but I don't recommend using lesser-known wallets, especially if you're new to

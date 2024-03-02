@@ -96,12 +96,24 @@ so you don't have to worry about it, but it's good to know that it's happening.
 ![Multi-path routing](ref-routing-2.png)
 
 If you enabled Pro mode, you can also enable Trisolaris routing. Trisolaris is the
-most popular DEX on [Aurora](../lvl5/aurora.md), and if the token is available on
+most popular DEX on [Aurora](../lvl4/aurora.md), and if the token is available on
 both NEAR and Aurora, it will try to find the best between both chains. This is also
 done automatically, but you can choose the route manually in the left bottom corner
 if you want.
 
 ![Trisolaris routing](ref-trisolaris.png)
+
+## Trading less popular tokens
+
+Not all tokens are available in "Select a token" menu, but if you have a token address
+(or contract address), you can enter it manually in the "Search name or paste address..."
+field. After that, click the "Add token" button and confirm the transaction. The transaction
+is needed to save the token in your list of tokens, and it will cost a small [storage fee](../lvl4/account-model/storage.md#storage-fee).
+After that, you will be able to find the token in the "Select a token" menu. As the
+project gains more recognition, Ref's team might [whitelist](https://gov.ref.finance/) it
+so that this action is no longer necessary.
+
+![Add token](ref-add-token.png)
 
 ## Limit orders
 

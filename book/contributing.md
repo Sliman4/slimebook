@@ -2,9 +2,9 @@
 
 If you want to improve the book, first of all, thank you! 🎉
 
-To do this, you need a discord account and to join our [discord](https://discord.gg/VZn9WU9Kpy).
+To do this, you need a discord or telegram account. Join our [discord](https://discord.gg/VZn9WU9Kpy).
 There, you can ask questions, suggest changes, and discuss the book with other readers and
-contributors. If you don't have a discord account, you can also join our [telegram chat](https://t.me/slimepowerchat)
+contributors. If you don't have a discord account, join our [telegram chat](https://t.me/slimepowerchat)
 and contribute there.
 
 You can contribute in many ways:
@@ -37,12 +37,12 @@ images, and other formatting.
 
 1. Go to the page you want to edit
 2. Click the &nbsp; <div class="fa fa-edit"></div> &nbsp; icon in the right top corner:
-!["Suggest an edit" button](suggest-an-edit.png)
+   !["Suggest an edit" button](suggest-an-edit.png)
 3. Copy the content of the page, and paste it in some text editor. For
    example, [EditMyMarkdown](https://editmymarkdown.com)
    is a good online editor with preview of formatting
 4. Edit the page until you're happy with it
-5. Send the edited page in the [discord](https://discord.gg/VZn9WU9Kpy)
+5. Send the edited page in discord or telegram chat
 
 If you want to create a new page, you can start with a template:
 
@@ -52,10 +52,23 @@ If you want to create a new page, you can start with a template:
 Contents
 ```
 
+## Writing guidelines
+
+- Be clear and concise. If you can explain something in 1 sentence, don't use 3
+- Use simple words. Don't use technical words unless necessary. The main audience of the
+  book is non-technical users who are new to NEAR, or new to web3 / crypto, we don't
+  want to scare them. But depending on the level of the page, more advanced concepts are
+  welcome
+- Use images and videos if they can help to understand the topic
+- Use links to other pages in the book and to external resources
+- If you want to contribute but it's too much for you, you can still send the
+  information and I'll edit it, though you'll get less reward
+
 ## Rewards
 
 For every contribution, you will be rewarded with NEAR tokens. The amount of tokens
 depends on:
+
 - The quality of the contribution. This is perhaps the most important and complex
   factor. It includes the quality of the writing, the usefulness of the information,
   the clarity of the explanation, and the relevance of the information. The quality is
@@ -73,9 +86,6 @@ depends on:
   while the treasury is almost empty, you can still be fairly compensated in the future, but
   it's not guaranteed.
 
-Currently, tipbot is used to reward contributors in telegram, and direct paymentes of near
-are used on discord.
-
 ## Have questions?
 
-Join our [discord](https://discord.gg/VZn9WU9Kpy) and ask anything you want.
+Join our [discord](https://discord.gg/VZn9WU9Kpy) or [telegram chat](https://t.me/slimepowerchat).

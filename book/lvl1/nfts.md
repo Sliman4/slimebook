@@ -44,6 +44,9 @@ One more example would be a ticket to a flight, let's analyze its properties:
 - Anyone can "print a ticket" and sell it, but only the airline can issue a valid
   ticket, and you can't use a fake ticket to fly
 
+Also, if some website has "NEP-171" in it, it simply means "NFT". NEP-171 is a
+technical standard for NFTs on NEAR, all NFTs on NEAR are `NEP-171`[^1] tokens.
+
 # How to get NFTs
 
 You can buy them on a marketplace, or mint them for free. Here are the most popular
@@ -66,7 +69,7 @@ place to start would be the [Slime Community Discord](https://discord.gg/A5Uh4hh
 server. As much as I'd like to have a list of all free mints here, I wouldn't be able
 to keep it up to date, so you should look for them yourself.
 
-One of the main platforms that provide free mints is [Shard dog](../lvl5/shard-dog.md),
+One of the main platforms that provide free mints is [Shard dog](../lvl2/shard-dog.md),
 and there's an NFT that is always given away for free for a subscription to a newsletter --
 [NearWeek NFT](https://subscribe.nearweek.com/). By the way, [NearWeek](../lvl2/nearweek.md)
 is also a good source of information about the NEAR ecosystem.
@@ -94,9 +97,9 @@ Some good indicators:
   it's probably not liquid and people are not interested in it
 - The creator's reputation. If the creator is a well-known person in the NFT space,
   a well-known artist or company, it's more likely that the NFT will have some value
-- The NFT's utility. If it gives you access to something, it's more likely to be
+- The NFT utility. If it gives you access to something, it's more likely to be
   valuable than if it's just a picture
-- The NFT's supply. If there are 1000 of the same NFT or just 10, it's more likely
+- The NFT supply. If there are 1000 of the same NFT or just 10, it's more likely
   that the 10 will be more valuable, because they are more rare
 - Community. If there's an active community around the NFT, it's more likely that
   the NFT will have some value, because the community will support it
@@ -104,7 +107,7 @@ Some good indicators:
 Some flags that indicate that the NFT needs more research:
 
 - There are 10000 NFTs, but only 30 of them are listed on marketplaces. They could
-  all be owned by the creator (red flag), or in [NFT staking](../lvl4/nft-staking.md)
+  all be owned by the creator (red flag), or in [NFT staking](#staking)
   contracts (green flag), or [burned](../lvl3/burning.md) (green flag), or no one
   cares about them and people gave up trying to sell them (red flag), or something else
 - The NFT creator claims that the NFT will give you some benefits, but there's
@@ -137,6 +140,23 @@ own it. But it's not a guarantee that you can't sell it, because you can [sell t
 whole account](../lvl4/account-model/keys/key-rotation.md) that owns the NFT, and
 the NFT will be transferred with the account.
 
+## Staking
+
+Some NFTs allow you to stake them to receive rewards. For example, you can stake "NEAR
+Tinker Union" and get $GEAR tokens, or stake El Cafe Cartel to get $CAFE. This mechanism
+makes the NFT more valuable, because it gives you a way to earn money with it, increasing
+its demand. At the same time, the supply is decreased, as more NFTs are staked and less
+are available for sale.
+
+To stake an NFT, you would usually navigate to the project's website, connect your wallet,
+and follow the instructions in the project's documentation, or ask in the project's
+community.
+
+Sometimes projects partner with NFT staking platforms, such as [Jump DeFi](../lvl4/jumpdefi.md)
+or [Paras](../lvl2/trade-nfts-paras.md#paras-token), and you can stake your NFTs there. In this case,
+you would need to connect your wallet to the platform, and follow the instructions of that
+platform.
+
 ## Creating your own NFT
 
 If you want to create your own NFT, there are 2 main ways to do it:
@@ -153,3 +173,5 @@ are some popular platforms for creating NFTs:
   but at the time of writing, Enleap doesn't work, and Bodega is only available for
   whitelisted projects with no public information. If you want your project to be
   on a launchpad, I recommend contacting them directly to discuss the terms
+
+[^1]: More technical info about NFTs: in [nomicon](https://nomicon.io/Standards/Tokens/NonFungibleToken/)

@@ -36,11 +36,12 @@ addresses: [NEAR Accounts](../lvl4/account-model/account-ids.md)
 If you're transferring from an exchange, depending on the exchange, it can take
 1-30 minutes for the transfer to come, but transfers between wallets usually take
 1-2 seconds. As an address, you can use the same NEAR account ID as you would
-for receiving from another NEAR account. I will show you how to do it with Bybit,
-but the interface is more or less the same on other exchanges:
+for receiving from another NEAR account. Here's how to do it with Bybit
+and Binance, but the interface is more or less the same on other exchanges:
 
 1. Buy NEAR (you may need to deposit some other currency first):
-![Bybit Buy NEAR](bybit-buy-near.png)
+Bybit: ![Bybit Buy NEAR](bybit-buy-near.png)
+Binance: ![Binance Buy NEAR](binance-buy-near.jpg)
 2. Navigate to "Assets". Some exchanges may have a "Trading balance" and a "Funding
    balance" - usually you would need to transfer from the "Funding balance" to the
    "Trading balance" first. But if you're not sure where to find it, you can just
@@ -48,7 +49,8 @@ but the interface is more or less the same on other exchanges:
 3. Find "NEAR" in your assets and click "Withdraw". On some exchanges, you may need
    to click "Withdraw" first and then select "NEAR" from a dropdown.
 4. Enter your NEAR account ID and the amount you want to withdraw:
-![Bybit Withdraw NEAR](bybit-withdraw-near.png)
+Bybit: ![Bybit Withdraw NEAR](bybit-withdraw-near.png)
+Binance: ![Binance Withdraw NEAR](binance-withdraw-near.jpg)
 5. Confirm the withdrawal. You may need to confirm it via email, 2FA, and password.
 
 ## From a different blockchain

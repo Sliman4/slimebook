@@ -18,14 +18,28 @@ Examples:
 - `sub.slimedragon.near`
 - `slimedrgn.tg`
 
-Named account IDs can contain alphanumeric symbols and hyphens, and must be
+Named account IDs can contain alphanumeric symbols, hyphens, underscores, and must be
 between 2 and 64 characters long. They can't start or end with a hyphen, and
 can't have two or more consecutive hyphens.
+
+## Implicit accounts
+
+Implicit accounts are accounts that contain 64 characters 0-9 and a-f. They cannot be created
+like normal named accounts, they always exist, but are initialized only when they receive
+some NEAR. By default, they have a [full key](keys/index.md#full-access-key) with public key
+the same as its address (but encoded in base58), and no other keys, so it's impossible
+to create an account with a predetermined implicit account ID.
+
+> Fun fact: The [burn](../../lvl3/burning.md) address ([`0000000000000000000000000000000000000000000000000000000000000000`](https://nearblocks.io/address/0000000000000000000000000000000000000000000000000000000000000000))
+> is controlled by a public key `ed25519:11111111111111111111111111111111`, and if you
+> [decode](https://appdevtools.com/base58-encoder-decoder) it, you'll get `0000000000000000000000000000000000000000000000000000000000000000`,
+> it works the same way as a normal address. But no one has the private key for it, so
+> it's considered inaccessible to anyone.
 
 ## Top-level names
 
 Most commonly you'll encounter wallets ending with `.near`, but there are other
-top-level names, like `.tg` (can be created in [Telegram NEAR Wallet](../../lvl1/wallets/telegram-near-wallet.md)),
+top-level names, like `.tg` (can be created in [Telegram NEAR Wallet](https://t.me/herewalletbot/app)),
 `.sweat` (cannot be created by users, used by [Sweat Economy](../../projects/sweat-economy.md)'s
 [smart contracts](../../lvl3/smart-contracts.md)), `.kaiching`, `.vrtx`, `.aurora`, and
 so on, but most of them are used internally and cannot be created by users.
