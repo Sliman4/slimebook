@@ -91,7 +91,8 @@ is not big, you can just [sell](exchanging-tokens-ref.md) your stNEAR.
 
 Usually these protocols stake to a lot of validators at once, so the risk of losing your
 stake is reduced. The most popular liquid staking providers are [Meta Pool](https://www.metapool.app/stake?token=near)
-(stNEAR) and [LiNEAR Protocol](https://app.linearprotocol.org/) (LiNEAR).
+(stNEAR) and [LiNEAR Protocol](https://app.linearprotocol.org/) (LiNEAR). Some time ago,
+there was NearX by Stader, but it sunsetted its operations in January 2024.
 
 ### A quick note about Octopus Network restaking
 
