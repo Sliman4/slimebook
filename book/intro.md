@@ -6,11 +6,7 @@ if something is outdated or unclear.
 
 This book is divided by "levels" and in future will be divided by "paths",
 so you don't necessarily need to read everything, just read what looks interesting
-for you, and feel free to stop reading at the level when it gets too technical.
-
-Some of the pages are already created and waiting for me to write them, I think I'll
-focus on writing all pages as fast as possible so that it can already be useful, and
-after that I'll start refining them.
+for you, and feel free to stop reading at the level when it gets too complicated.
 
 If you find this book useful, you can support it by [donating](https://app.potlock.org/?tab=project&projectId=slimebook.near)
 or [contributing](contributing.md) to it.

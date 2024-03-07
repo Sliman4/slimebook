@@ -35,20 +35,26 @@ key, and then delete the old one. Here's how you can do it in [Meteor Wallet](..
 ### Meteor Wallet
 
 1. Open the wallet:
+   
    ![Open the wallet](transfer-account-1.png)
 2. Click "Security and Recovery"
+   
    ![Security and Recovery](transfer-account-2.png)
 3. Click "Manage Full Access Keys"
+   
    ![Manage Full Access Keys](transfer-account-3.png)
 4. Remember your existing public key, you can copy it somewhere, or just remember the
    first 3 characters
 5. Click "Add New Access Key"
+   
    ![Add New Access Key](transfer-account-4.png)
 6. Click "Generate New Key" (or if you want to transfer to a hardware device, choose
    this option)
+   
    ![Generate New Key](transfer-account-5.png)
 7. Save the seed phrase, and click "Continue"
 8. When the key is added, the "Manage Full Access Keys" page will look like this:
+   
    ![Manage Full Access Keys](transfer-account-6.png)
 9. Either
     - Click "Set as Primary Key" near the new key so that the wallet now uses the new
@@ -57,6 +63,7 @@ key, and then delete the old one. Here's how you can do it in [Meteor Wallet](..
     - Logout from your account and login with the new phrase
 10. Now you can delete the old key by clicking "Revoke Access" next to it. The old key
     is the one that you remembered in step 4
+   
     ![Revoke Access](transfer-account-7.png)
 
 Now try to login with your old phrase/key, and you should see that it doesn't work

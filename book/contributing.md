@@ -37,6 +37,7 @@ images, and other formatting.
 
 1. Go to the page you want to edit
 2. Click the &nbsp; <div class="fa fa-edit"></div> &nbsp; icon in the right top corner:
+   
    !["Suggest an edit" button](suggest-an-edit.png)
 3. Copy the content of the page, and paste it in some text editor. For
    example, [EditMyMarkdown](https://editmymarkdown.com)
