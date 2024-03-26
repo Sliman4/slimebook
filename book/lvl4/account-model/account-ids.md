@@ -30,12 +30,6 @@ some NEAR. By default, they have a [full key](keys/index.md#full-access-key) wit
 the same as its address (but encoded in base58), and no other keys, so it's impossible
 to create an account with a predetermined implicit account ID.
 
-> Fun fact: The [burn](../../lvl3/burning.md) address ([`0000000000000000000000000000000000000000000000000000000000000000`](https://nearblocks.io/address/0000000000000000000000000000000000000000000000000000000000000000))
-> is controlled by a public key `ed25519:11111111111111111111111111111111`, and if you
-> [decode](https://appdevtools.com/base58-encoder-decoder) it, you'll get `0000000000000000000000000000000000000000000000000000000000000000`,
-> it works the same way as a normal address. But no one has the private key for it, so
-> it's considered inaccessible to anyone.
-
 ## Top-level names
 
 Most commonly you'll encounter wallets ending with `.near`, but there are other

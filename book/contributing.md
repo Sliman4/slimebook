@@ -90,3 +90,9 @@ depends on:
 ## Have questions?
 
 Join our [discord](https://discord.gg/VZn9WU9Kpy) or [telegram chat](https://t.me/slimepowerchat).
+
+## They donated to Slimebook
+
+<div style="text-align: center">
+  <a target="_blank" href="https://shitzuapes.xyz/"><img src="./shitzu.svg" alt="Shitzu" width="100px" height="100px" /></a>
+</div>

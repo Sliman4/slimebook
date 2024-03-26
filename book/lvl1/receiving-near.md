@@ -78,10 +78,10 @@ best bridge for Ethereum is [Rainbow Bridge](../lvl2/rainbow-bridge.md). It's an
 **trustless** two-way bridge, meaning that you don't need to trust the company that runs
 it, and it's less prone to hacks. If you want to bridge from BNB Smart Chain, Solana,
 Polygon, or another blockchain, you need to use a different bridge or an exchange. For
-small amounts (less than $100), you can use [Allbridge Classic](https://app.allbridge.io/bridge),
+small amounts (less than $1000), you can use [Allbridge Classic](https://app.allbridge.io/bridge) or [Rubic Exchange](https://app.rubic.exchange/?fromChain=SOLANA&toChain=NEAR&to=NEAR&from=SOL&amount=10),
 but you can easily lose a good percentage of your money due to [slippage](../lvl2/exchanging-tokens-ref.md#slippage).
-I recommend [using an exchange](#from-an-exchange) for larger amounts. And for small
-amounts, too, if you have an account on an exchange.
+I recommend [using a centralized exchange](#from-an-exchange) for larger amounts. And for small
+amounts, too, if you have an account on an exchange, in most cases it's the cheapest option.
 
 ## Earn NEAR
 

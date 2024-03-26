@@ -37,4 +37,5 @@ Additionally, if you enter your NEAR account ID, you will receive a [free](shard
 
 If you want to contribute to NEARWEEK and earn rewards, you can check the [NEARWEEK
 documentation](https://docs.nearweek.com/start/newsletter/newsletter#nearweek-types-of-contribution).
-But in short, the easiest way is reply to a Twitter post with `!submit @nearweekbot`.
+But in short, the easiest way to let NEARWEEK know about something is to reply to a Twitter post
+with `!submit @nearweekbot`.
