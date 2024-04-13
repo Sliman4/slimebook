@@ -21,7 +21,8 @@ benefits.
 While I aim to keep this book objective, I know you probably don't want to
 read all these pages and compare it yourself, so here's what I recommend:
 - If you're on a computer, use [Meteor Wallet](meteor-wallet.md).
-- If you're on a phone, use [HERE Wallet](here-wallet.md).
+- If you're on a phone, use [HERE Wallet](here-wallet.md). WARNING: Don't use the built-in Swap feature, as it has a bug that could lead to loss of funds. It's not been fixed for more than a month now. Use [ref.finance](../../lvl2/exchanging-tokens-ref.md) website instead.
+- If you want something very secure, use Ledger hardware wallet with Meteor or MyNearWallet.
 
 ## Connecting to dapps
 
