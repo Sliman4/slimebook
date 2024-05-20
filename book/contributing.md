@@ -82,7 +82,7 @@ depends on:
   to write (+ some time to set up potlock, treasury account, the "Suggest an edit"
   button in the corner, finding an online editor, and other things, but let's ignore this),
   so it'll be rewarded with about 5-20 NEAR, depending on the other factors.
-- The amount of money in the [slimebook treasury](https://nearblock.io/account/slimebook.near).
+- The amount of money in the [slimebook treasury](https://nearblocks.io/account/slimebook.near).
   The treasury is filled with donations and maybe some grants in the future. If you contributed
   while the treasury is almost empty, you can still be fairly compensated in the future, but
   it's not guaranteed.
