@@ -10,7 +10,7 @@ created by other teams. The most popular ones are:
 - [MyNearWallet](my-near-wallet.md) - web
 - [NEAR Mobile Wallet](https://nearmobile.app/) - mobile
 - [Sender Wallet](https://senderwallet.io/) - mobile + chrome extension
-- [Nightly Wallet](https://nightly.app/) - chrome extension + firefox extension
+- [Nightly Wallet](https://nightly.app/) - browser extension + mobile
 - [Telegram NEAR Wallet](https://t.me/herewalletbot/app) - telegram app
 
 There is [a full list of all wallets and their features](https://docs.google.com/spreadsheets/d/1Q9ZEeWpFHgcPthSCvzyiVcaKdBIcdS3r96v48OYsDBM/edit),
