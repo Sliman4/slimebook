@@ -38,11 +38,10 @@ top-level names, like `.tg` (can be created in [Telegram NEAR Wallet](https://t.
 [smart contracts](../../lvl3/smart-contracts.md)), `.kaiching`, `.vrtx`, `.aurora`, and
 so on, but most of them are used internally and cannot be created by users.
 
-Top-level (without `.something`) account IDs with lengths >= 32 characters can be
-created by anyone, though they're used very often. For example, [this-account-is-owned-by-a-green-slime](https://nearblocks.io/address/this-account-is-owned-by-a-green-slime)
-is a valid account ID that can be created by anyone. Top-level accounts with length less
-than 32 characters can only be created by [registrar](https://nearblocks.io/address/registrar), a system account. In the future,
-there may be auctions of top-level accounts, but now they are given manually by the team.
+Top-level (without `.something`) account IDs with lengths >= 32 characters could be
+created by anyone, but they were used very often, and now it's not possible. For example, [this-account-is-owned-by-a-green-slime](https://nearblocks.io/address/this-account-is-owned-by-a-green-slime)
+is a valid account ID that can be created by anyone. Top-level accounts can only be created by [registrar](https://nearblocks.io/address/registrar), a system account. In the future,
+there may be auctions of top-level accounts, but now they are given manually by `registrar` owner, which is most likely controlled by Pagoda or Near Foundation.
 
 ## Subaccounts
 
