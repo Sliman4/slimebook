@@ -15,7 +15,7 @@ extra-watch-dirs = []
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "navy"
-curly-quotes = true
+smart-punctuation = true
 mathjax-support = false
 additional-css = []
 additional-js = []

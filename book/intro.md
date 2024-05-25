@@ -1,3 +1,8 @@
+---
+title: "Slimebook - Intro"
+description: "Intro to Slimebook, an educational free online resource about NEAR Protocol ecosystem"
+---
+
 # Intro
 Hey, my name is Slime, and this book is my attempt of creating a
 comprehensive and somewhat up-to-date NEAR ecosystem guide. Please
