@@ -16,7 +16,7 @@ Wallet's features.
 
 ![Meteor Wallet](meteor-wallet-receive.png)
 
-In the example above, your address will be `simpleisland-slime.near`.
+In the example above, our address is `simpleisland-slime.near`.
 
 ### Sending NEAR
 To send NEAR to someone, you need to know the recipient's account ID (username).
@@ -37,3 +37,32 @@ view their traits, floor prices, transfer NFTs, and more.
 ![Meteor Wallet NFTs](meteor-wallet-nfts.png)
 
 ![Meteor Wallet NFT](meteor-wallet-nft.png)
+
+### Transaction history
+
+Under the "lightning bolt" sign, you can see your transaction history:
+
+![Meteor Wallet Transactions](meteor-wallet-history.jpg)
+
+## Settings
+
+Settings in Meteor Wallet are located here:
+
+![Meteor Wallet Settings](meteor-wallet-settings.jpg)
+
+1. **Connected Apps**: Here you can see all the apps that you have connected your wallet
+   to (or technically, created a [Function Call key](../../lvl4/account-model/keys/index.md#function-call-access-key)).
+   You can also revoke access to these apps by clicking "Deauthorize".
+
+   ![Meteor Wallet Connected Apps](meteor-wallet-connections.jpg)
+
+2. **Security and Recovery**: This part of the wallet contains your account's
+   [seed phrase](../../lvl4/account-model/keys/where-to-save-seed-phrase.md). You can
+   view or export your seeds & private key from this page. It also gives you an option
+   to manage [Full Access Keys](../../lvl4/account-model/keys/index.md#full-access-key)
+   and [Function Call Access Keys](../../lvl4/account-model/keys/index.md#full-access-key)
+   of your account.
+
+   ![Meteor Wallet Security](meteor-wallet-security.jpg)
+
+3. You can also provide feedback, share your issue with technical support, set a password, remove the account from meteor wallet, and other things from this page.
