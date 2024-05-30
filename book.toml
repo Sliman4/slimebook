@@ -3,8 +3,9 @@ authors = ["slimedragon.near"]
 language = "en"
 multilingual = false
 src = "book"
-title = "SlimeBook"
+title = "Slimebook"
 text-direction = "ltr"
+description = "A book about NEAR Protocol ecosystem"
 
 [build]
 build-dir = "out"
