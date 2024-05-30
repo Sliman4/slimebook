@@ -169,7 +169,7 @@ are some popular platforms for creating NFTs:
 - [Paras](../lvl2/trade-nfts-paras.md) - a marketplace that allows you to mint NFTs
 - [Mintbase](../lvl4/mintbase.md) - a platform that allows you to mint NFTs and create
   your own marketplace
-- [Enleap](https://enleap.app/) and [Bodega](https://bodega.land/) are NFT launchpads,
+- [Enleap](https://enleap.app/) and [Bodega](https://app.bodega.land/) are NFT launchpads,
   but at the time of writing, Enleap doesn't work, and Bodega is only available for
   whitelisted projects with no public information. If you want your project to be
   on a launchpad, I recommend contacting them directly to discuss the terms
