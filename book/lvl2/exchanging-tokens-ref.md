@@ -22,6 +22,8 @@ To convert one token into another, follow these steps:
 3. Enter the amount of the tokens you want to swap.
 4. Click "Swap" and confirm the transaction in your wallet.
 
+<video src="ref-swap.mp4" autoplay loop></video>
+
 Yes, it's that simple. But if you're going to do it often, you should be aware of these
 things:
 
