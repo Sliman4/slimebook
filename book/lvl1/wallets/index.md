@@ -6,12 +6,12 @@ There is no official NEAR Wallet[^1], but there are a lot of wallets
 created by other teams. The most popular ones are:
 - [Meteor Wallet](meteor-wallet.md) - web + chrome extension
 - [HERE Wallet](here-wallet.md) - mobile
-- [Mintbase Wallet](mintbase-wallet.md) - web
+- [Bitte Wallet](bitte-wallet.md) - web
 - [MyNearWallet](my-near-wallet.md) - web
 - [NEAR Mobile Wallet](https://nearmobile.app/) - mobile
 - [Sender Wallet](https://senderwallet.io/) - mobile + chrome extension
 - [Nightly Wallet](https://nightly.app/) - browser extension + mobile
-- [Telegram NEAR Wallet](https://t.me/herewalletbot/app) - telegram app
+- [HOT Wallet](https://t.me/herewalletbot/app) - telegram web-app
 
 There is [a full list of all wallets and their features](https://docs.google.com/spreadsheets/d/1Q9ZEeWpFHgcPthSCvzyiVcaKdBIcdS3r96v48OYsDBM/edit),
 but I don't recommend using lesser-known wallets, especially if you're new to
@@ -21,7 +21,7 @@ benefits.
 While I aim to keep this book objective, I know you probably don't want to
 read all these pages and compare it yourself, so here's what I recommend:
 - If you're on a computer, use [Meteor Wallet](meteor-wallet.md).
-- If you're on a phone, use [HERE Wallet](here-wallet.md). WARNING: Don't use the built-in Swap feature, as it has a bug that could lead to loss of funds. It's not been fixed for more than a month now. Use [ref.finance](../../lvl2/exchanging-tokens-ref.md) website instead.
+- If you're on a phone, use [HERE Wallet](here-wallet.md).
 - If you want something very secure, use Ledger hardware wallet with Meteor or MyNearWallet.
 
 ## Connecting to dapps

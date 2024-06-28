@@ -47,10 +47,6 @@ You can exchange tokens in the wallet:
 
 ![Here Wallet Swap](here-wallet-swap.jpg)
 
-> WARNING: I don’t recommend using the built-in Swap feature, as it has a bug that could
-  lead to loss of funds. It’s not been fixed for more than a month now. Use [Ref.Finance](../../lvl2/exchanging-tokens-ref.md)
-  website instead, and connect it to your HERE wallet as a dapp.
-
 ## Score
 
 Score is a system that measures your activity in the app. It is attached to the account

@@ -24,9 +24,9 @@ MyNearWallet has 2 ways: It's displayed in the top right corner, or you can clic
 
 ![MyNearWallet](mynearwallet-receive-near.png)
 
-Telegram Wallet:
+HOT Wallet:
 
-![Telegram Wallet](telegramwallet-receive-near.png)
+![HOT Wallet](hot-wallet-receive-near.png)
 
 If you're coming from a different blockchain, you might be used to having
 a long string of random characters as your address. NEAR mostly uses human-readable

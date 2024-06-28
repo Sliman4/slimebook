@@ -5,7 +5,7 @@
   - [Wallets](lvl1/wallets/index.md)
     - [Meteor Wallet](lvl1/wallets/meteor-wallet.md)
     - [HERE Wallet](lvl1/wallets/here-wallet.md)
-    - [⏳ Mintbase Wallet](lvl1/wallets/mintbase-wallet.md)
+    - [⏳ Bitte Wallet](lvl1/wallets/bitte-wallet.md)
     - [MyNearWallet](lvl1/wallets/my-near-wallet.md)
   - [Fungible Tokens](lvl1/fts.md)
   - [NFTs](lvl1/nfts.md)

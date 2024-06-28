@@ -33,7 +33,7 @@ to create an account with a predetermined implicit account ID.
 ## Top-level names
 
 Most commonly you'll encounter wallets ending with `.near`, but there are other
-top-level names, like `.tg` (can be created in [Telegram NEAR Wallet](https://t.me/herewalletbot/app)),
+top-level names, like `.tg` (can be created in [HOT Wallet](https://t.me/herewalletbot/app)),
 `.sweat` (cannot be created by users, used by [Sweat Economy](../../projects/sweat-economy.md)'s
 [smart contracts](../../lvl3/smart-contracts.md)), `.kaiching`, `.vrtx`, `.aurora`, and
 so on, but most of them are used internally and cannot be created by users.
