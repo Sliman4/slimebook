@@ -1,6 +1,6 @@
 # ShardDog
 
-[ShardDog](https://shard.dog/) a platform built on Near Blockchain that facilitates projects to reach a greater audience and increase their userbase using their free [NFT](../lvl1/nfts.md) or [FT](../lvl1/fts.md) drop feature, for a small fee based on project's scope. An alternative to ShardDog is [Bitte Drops](../lvl1/wallets/bitte-wallet.md), which allows you to create drops without contacting ShardDog, and completely free, but only works with Mintbase Wallet users.
+[ShardDog](https://shard.dog/) a platform built on Near Blockchain that facilitates projects to reach a greater audience and increase their userbase using their free [NFT](../lvl1/nfts.md) or [FT](../lvl1/fts.md) drop feature, for a small fee based on project's scope. An alternative to ShardDog is [Bitte Drops](../lvl1/wallets/bitte-wallet.md#bitte-drops), which allows you to create drops without contacting ShardDog, and completely free, but only works with Mintbase Wallet users.
 
 [A good thread about ShardDog](https://x.com/sharddog/status/1671543992171786242)
 
