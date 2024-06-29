@@ -1,6 +1,6 @@
 # HERE Wallet
 
-HERE Wallet (https://www.herewallet.app/) is a mobile NEAR wallet that has an app for
+[HERE Wallet](https://www.herewallet.app/) is a mobile NEAR wallet that has an app for
 both Android and iOS, and a limited version of it can also be accessed from web, though
 it's definitely not priority for the team, so I wouldn't recommend using it.
 
