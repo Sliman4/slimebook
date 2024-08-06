@@ -10,7 +10,12 @@ of the total NEAR supply is staked.
 
 The APR comes from the network's inflation. The network inflates the total supply of NEAR
 by 5% per year, and this inflation is distributed to the validators and the people who
-have staked their NEAR. The validators get 
+have staked their NEAR. The validators get a fee from your APR that is shown in your wallet.
+For example, if the APR is 8% and fee is 1%, you will get 7.92% APR.
+
+Some validators (like Aurora, Shitzu, Meteor) have high fees, but they additionally emit
+other tokens (AURORA, DOGSHIT, MOON), so sometimes the APR can be even higher than if they had
+no fees. But the stability depends on the price volatility of the reward token.
 
 ## How does it help secure the network?
 
@@ -102,6 +107,11 @@ everything said above may not be applicable to it (though, the concept is quite 
 You should check the Octopus Network's [documentation](https://docs.oct.network/general/v2/octopus-restaking.html)
 if you're interested.
 
+### Allstake restaking
+
+This has not been written yet and I don't know much about it, but I guess it's also a
+restaking protocol - [learn more here](https://allstake.org).
+
 ## Staking of other tokens
 
 Some other tokens on NEAR can also be staked, but the process is quite different. You
@@ -110,9 +120,10 @@ Same goes about [NFT staking](../lvl1/nfts.md#staking).
 
 ## Troubleshooting
 
-> I don't see any validators in my wallet
+> I don't see any validators in my MyNearWallet
 
-Try waiting for 1-2 minutes, the list of validators usually loads slowly.
+Try waiting for 1-2 minutes, the list of validators usually loads slowly. If it's still not
+there, try Meteor Wallet instead.
 
 > I don't see any rewards in my wallet
 
